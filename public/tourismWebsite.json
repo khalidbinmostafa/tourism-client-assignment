@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "key": "1x",
+        "balance": 2115.98,
+        "img": "https://pro-theme.com/html/health/media/services/1.png",
+        "name": "Diagnose & Research",
+        "description": "Diagnosis is central to medical practice. It refers to knowing (“gnosis”) about the health of a client. Typically, diagnostic research focuses on estimating the sensitivity and specificity of individual diagnostic tests, their predictive values, and other parameters of interest.",
+        "country": "United Kingdom",
+        "price": "$156",
+        "phone": "+1 (884) 533-3679",
+        "address": "762 Apollo Street, Kersey, Maine, 8320"
+    },
+    {
+        "id": 2,
+        "key": "2x",
+        "balance": 1869.74,
+        "img": "https://pro-theme.com/html/health/media/services/2.png",
+        "name": "Dental Surgery",
+        "description": "Dental surgery is a broad term that refers to a broad range of medical procedures that involves the gums and teeth. These include root canal, implants, and wisdom tooth extraction. Out of the different dental surgery procedures, perhaps the most common is wisdom teeth removal.",
+        "country": "England",
+        "price": "$450",
+        "phone": "+1 (994) 533-2175",
+        "address": "696 Monroe Place, Norris, Virgin Islands, 4599"
+    },
+    {
+        "id": 3,
+        "key": "3x",
+        "balance": 1697.66,
+        "img": "https://pro-theme.com/html/health/media/services/3.png",
+        "name": "Cancer Oncology",
+        "description": "Oncology is the study of cancer. An oncologist is a doctor who treats cancer and provides medical care for a person diagnosed with cancer. An oncologist may also be called a cancer specialist. The field of oncology has 3 major areas based on treatments.",
+        "country": "England",
+        "price": "$990",
+        "phone": "+1 (904) 566-2328",
+        "address": "244 Duryea Court, Naomi, Ohio, 3234"
+    },
+    {
+        "id": 4,
+        "key": "4x",
+        "balance": 2342.71,
+        "img": "https://pro-theme.com/html/health/media/services/4.png",
+        "name": "Neurology",
+        "description": "Neurology is the branch of medicine concerned with the study and treatment of disorders of the nervous system. The nervous system is a complex, sophisticated system that regulates and coordinates body activities. ",
+        "country": "England",
+        "price": "$750",
+        "phone": "+1 (936) 447-2881",
+        "address": "456 Ivan Court, Chumuckla, California, 3889"
+    },
+    {
+        "id": 5,
+        "key": "5x",
+        "balance": 2115.98,
+        "img": "https://pro-theme.com/html/health/media/services/5.png",
+        "name": "Drug / Medicine",
+        "description": "Medicine is a substance or preparation used in treating disease, while drug is any chemical compound either synthesized in laboratory or of plant, animal or marine origin which is intended to bring change in normal physiological functions of body.",
+        "country": "United Kingdom",
+        "price": "$156",
+        "phone": "+1 (884) 533-3679",
+        "address": "762 Apollo Street, Kersey, Maine, 8320"
+    },
+    {
+        "id": 6,
+        "key": "6x",
+        "balance": 1869.74,
+        "img": "https://pro-theme.com/html/health/media/services/6.png",
+        "name": "Heart Center",
+        "description": "At The Heart Center, our mission is to focus on providing the highest quality, most cost-effective and comprehensive care to all patients with congenital heart disease, regardless of age. Our vision is to rise to recognized and sustained status as a national and international.",
+        "country": "England",
+        "price": "$450",
+        "phone": "+1 (994) 533-2175",
+        "address": "696 Monroe Place, Norris, Virgin Islands, 4599"
+    }
+]

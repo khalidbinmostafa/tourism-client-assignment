@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "key": "1x",
+        "balance": 2115.98,
+        "img": "https://pro-theme.com/html/health/media/slider_team/2.jpg",
+        "name": "Dr. Robert Smith",
+        "description": "Famous Neurologist",
+        "country": "United Kingdom",
+        "price": "$156",
+        "phone": "+1 (884) 533-3679",
+        "address": "762 Apollo Street, Kersey, Maine, 8320"
+    },
+    {
+        "id": 2,
+        "key": "2x",
+        "balance": 1869.74,
+        "img": "https://pro-theme.com/html/health/media/slider_team/4.jpg",
+        "name": "Dr. Andrea Jean",
+        "description": "Heart Consultant",
+        "country": "England",
+        "price": "$450",
+        "phone": "+1 (994) 533-2175",
+        "address": "696 Monroe Place, Norris, Virgin Islands, 4599"
+    },
+    {
+        "id": 3,
+        "key": "3x",
+        "balance": 1697.66,
+        "img": "https://pro-theme.com/html/health/media/slider_team/3.jpg",
+        "name": "Dr. Sharon Laura",
+        "description": "Famous Sergeon",
+        "country": "England",
+        "price": "$990",
+        "phone": "+1 (904) 566-2328",
+        "address": "244 Duryea Court, Naomi, Ohio, 3234"
+    },
+    {
+        "id": 4,
+        "key": "4x",
+        "balance": 2342.71,
+        "img": "https://pro-theme.com/html/health/media/290x250/2.jpg",
+        "name": "Dr. Hena Stancovich",
+        "description": "Famous Dentist",
+        "country": "England",
+        "price": "$750",
+        "phone": "+1 (936) 447-2881",
+        "address": "456 Ivan Court, Chumuckla, California, 3889"
+    },
+    {
+        "id": 5,
+        "key": "5x",
+        "balance": 2115.98,
+        "img": "https://pro-theme.com/html/health/media/slider_team/1.jpg",
+        "name": "Dr. Peter Handscomb",
+        "description": "Medicine Expert",
+        "country": "United Kingdom",
+        "price": "$156",
+        "phone": "+1 (884) 533-3679",
+        "address": "762 Apollo Street, Kersey, Maine, 8320"
+    }
+]

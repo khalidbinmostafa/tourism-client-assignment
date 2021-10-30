@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "key": "1x",
+        "balance": 2115.98,
+        "img": "https://image.freepik.com/free-photo/young-man-choosing-spectacles-optic-shop_1303-28827.jpg",
+        "name": "Eye Care Solutions",
+        "description": "Famous Neurologist",
+        "country": "United Kingdom",
+        "price": "$156",
+        "phone": "+1 (884) 533-3679",
+        "address": "762 Apollo Street, Kersey, Maine, 8320"
+    },
+    {
+        "id": 2,
+        "key": "2x",
+        "balance": 1869.74,
+        "img": "https://image.freepik.com/free-photo/female-dentist-teeth-examination_170532-1664.jpg",
+        "name": "Dental Surgery",
+        "description": "Heart Consultant",
+        "country": "England",
+        "price": "$450",
+        "phone": "+1 (994) 533-2175",
+        "address": "696 Monroe Place, Norris, Virgin Islands, 4599"
+    },
+    {
+        "id": 3,
+        "key": "3x",
+        "balance": 1697.66,
+        "img": "https://image.freepik.com/free-photo/back-view-doctor-holding-blood-sample_23-2148847221.jpg",
+        "name": "Blood Tests & X-Rays",
+        "description": "Famous Sergeon",
+        "country": "England",
+        "price": "$990",
+        "phone": "+1 (904) 566-2328",
+        "address": "244 Duryea Court, Naomi, Ohio, 3234"
+    },
+    {
+        "id": 4,
+        "key": "4x",
+        "balance": 2342.71,
+        "img": "https://image.freepik.com/free-photo/nurse-measuring-patient-blood-pressure_53876-14933.jpg",
+        "name": "Health Care Solutions",
+        "description": "Famous Dentist",
+        "country": "England",
+        "price": "$750",
+        "phone": "+1 (936) 447-2881",
+        "address": "456 Ivan Court, Chumuckla, California, 3889"
+    },
+    {
+        "id": 5,
+        "key": "5x",
+        "balance": 2115.98,
+        "img": "https://image.freepik.com/free-photo/high-angle-pill-foils-plastic-containers_23-2148533456.jpg",
+        "name": "Medicines & Drug Store",
+        "description": "Medicine Expert",
+        "country": "United Kingdom",
+        "price": "$156",
+        "phone": "+1 (884) 533-3679",
+        "address": "762 Apollo Street, Kersey, Maine, 8320"
+    }
+]

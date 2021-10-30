@@ -1,0 +1,17 @@
+#ui{
+    background-color: black;
+      padding: 30px;
+      margin-top: 30px;
+      border-radius: 10px;
+     
+  }
+  #ui label{
+      color: white;
+  }
+  .color-h1{
+      color: white;
+  }
+  .color-change{
+      background-color: chocolate;
+      color: white;
+  }
