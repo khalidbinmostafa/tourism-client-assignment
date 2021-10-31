@@ -16,7 +16,7 @@ const Home = () => {
                     <Link className="navbar-brand" to="/home">Home</Link>
                     <Link className="navbar-brand" to="/about">About</Link>
                     <Link className="navbar-brand" to="/service/:serviceId">Services</Link>
-                    <Link className="navbar-brand" to="/appointment">Appointment Form</Link>
+                    <Link className="navbar-brand" to="/appointment">Booking Form</Link>
                     <Navbar.Text className="text-white mx-5">
                         <span className="text-info">Signed in as: </span>
                         {user.displayName}

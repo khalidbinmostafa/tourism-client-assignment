@@ -7,7 +7,7 @@ const Appointment = () => {
             <div className="row">
                 <div className="col-lg-3"></div>
                 <div id="ui">
-                    <h1 className="color-h1">Appointment Form</h1>
+                    <h1 className="color-h1">Booking Form</h1>
                     <form className="form-group">
                         <div className="row">
                             <div className="col-lg-6">

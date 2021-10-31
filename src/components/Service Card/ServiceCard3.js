@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Service3 from '../Service/Service2';
+import Service3 from '../Service/Service3';
 
 
 const ServiceCard3 = () => {
@@ -13,8 +13,8 @@ const ServiceCard3 = () => {
 
     return (
         <><div className="mt-5">
-            <h1>Services We Offer</h1>
-            <p>We provide best services for our patient</p>
+            <h1>What Our Traveller Say About Us</h1>
+            <p>Our Traveller Say</p>
         </div><div className="container-fluid row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
 
                 {

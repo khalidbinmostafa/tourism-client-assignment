@@ -8,7 +8,7 @@ const ServiceDetails = () => {
     console.log(serviceId);
     const [services, setServices] = useState([]);
     useEffect(() => {
-        fetch('/healthCare.json')
+        fetch('/tourismWebsite.json')
             .then(res => res.json())
             .then(data => setServices(data));
     }, []);

@@ -1,16 +1,19 @@
 # Assignment-Tourism-Website-Assignment
 
-### The private repo link is: 
-https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-khalidbinmostafa
+### The private repo (client) link is: 
+https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-khalidbinmostafa
+
+### The private repo (server) link is: 
+https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-khalidbinmostafa
 
 ### firebase deploy link:
-https://health-care-authenticati-10880.web.app/
+
 
 ### The Features used here:
 - Bootstrap
 - React
 - Routing
 - Firebase
-- Hook
+- Mongodb
 
 **Note: This project is created by Khalid**

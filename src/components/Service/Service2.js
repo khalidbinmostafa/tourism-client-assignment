@@ -11,8 +11,8 @@ const Service2 = ({ service }) => {
                 <div className="card-body">
                     <h5 className="card-title">{name}</h5>
 
-                    <Link to={`/service/${id}`}>
-                        <button className="header-btn">Book an Appointment</button>
+                    <Link to="/appointment">
+                        <button className="header-btn">Booking for Travel</button>
                     </Link>
                 </div>
             </div>
