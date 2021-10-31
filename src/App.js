@@ -10,14 +10,12 @@ import Appointment from './components/Appointment Form/Appointment';
 import Login from './components/Login/Login/Login';
 import AuthProvider from './contexts/AuthProvider';
 
-import ServiceCard2 from './components/Service Card/ServiceCard2';
-import ServiceCard3 from './components/Service Card/ServiceCard3';
-
 import Home1 from './components/Home/Home1';
 import Register from './components/Register/Register';
 import PrivateRoute from './components/Private Route/PrivateRoute';
 import ServiceDetails from './components/ServiceDetails/ServiceDetails';
 import ServiceCard from './components/Service Card/ServiceCard';
+import Home2 from './components/Home/Home2';
 
 function App() {
   return (
@@ -28,16 +26,13 @@ function App() {
           <Switch>
             <Route exact path="/">
               <Home1></Home1>
-              <ServiceCard></ServiceCard>
-              <ServiceCard2></ServiceCard2>
-              <ServiceCard3></ServiceCard3>
+
+              <Home2></Home2>
 
             </Route>
             <Route path="/home">
               <Home1></Home1>
-              <ServiceCard></ServiceCard>
-              <ServiceCard2></ServiceCard2>
-              <ServiceCard3></ServiceCard3>
+              <Home2></Home2>
 
             </Route>
             <PrivateRoute path="/about">

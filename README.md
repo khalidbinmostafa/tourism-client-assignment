@@ -1,4 +1,5 @@
 # Assignment-Tourism-Website-Assignment
+This project is about Tourism. In this project we use many features.
 
 ### The private repo (client) link is: 
 https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-khalidbinmostafa
@@ -7,10 +8,10 @@ https://github.com/programming-hero-web-course1/tourism-or-delivery-website-clie
 https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-khalidbinmostafa
 
 ### firebase deploy link:
-
+https://tourism-website-b9cd5.web.app/
 
 ### The Features used here:
-- Bootstrap
+- Heroku
 - React
 - Routing
 - Firebase

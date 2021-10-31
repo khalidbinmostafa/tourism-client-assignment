@@ -1,19 +1,31 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router';
 import { Link } from 'react-router-dom';
+import { useForm } from "react-hook-form";
 import './ServiceDetails.css';
 
+
 const ServiceDetails = () => {
+
+
     const { serviceId } = useParams();
     console.log(serviceId);
     const [services, setServices] = useState([]);
     useEffect(() => {
-        fetch('/tourismWebsite.json')
+        fetch('https://dreadful-grave-34944.herokuapp.com/offers')
             .then(res => res.json())
-            .then(data => setServices(data));
+            .then(data => {
+                setServices(data)
+                console.log(data)
+            });
     }, []);
-    const findService = services.find(service => service.id == serviceId)
+    const findService = services.find(service => service._id == serviceId)
     console.log(findService);
+
+    const { register, handleSubmit, watch, formState: { errors } } = useForm();
+    const onSubmit = data => console.log(data);
+
+    console.log(watch("example"));
     return (
         <div className="container col col-lg-3 col-sm-3">
             <div className="card">
@@ -26,6 +38,16 @@ const ServiceDetails = () => {
                     </Link>
                 </div>
             </div>
+            <form onSubmit={handleSubmit(onSubmit)}>
+
+                <input defaultValue="user" {...register("example")} />
+
+                <input {...register("exampleRequired", { required: true })} />
+
+                {errors.exampleRequired && <span>This field is required</span>}
+
+                <input type="submit" />
+            </form>
         </div>
     );
 };
